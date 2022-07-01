@@ -1,0 +1,49 @@
+.note{
+    font-size: 15px;
+    color: rgb(114, 171, 0);
+    width: 100%;
+    word-spacing: 5px;
+}
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin-top: 0px;
+    font-family: 'Monoton', cursive;
+    word-spacing: 5px;
+}
+body{
+    background-size: cover;
+}
+#speed{
+    font-size: 24px;
+    margin-left: 8px;
+}
+.div_speed_img{
+    width: 200px;
+    border-radius: 100px;
+}
+.div_speed{
+    float: left;
+}
+#vol{
+    font-size: 24px;
+    margin-left: 8px;
+}
+.div_vol_img{
+    width: 200px;
+    border-radius: 100px;
+}
+.div_vol{
+    float: right;
+}
+.playB{
+    width: 110px;
+    font-size: 25px;
+    font-family: 'Monoton', cursive;
+}
+canvas{
+    border: 5px dotted yellowgreen;
+    border-radius: 20px;
+    margin-top: 130px;
+    
+}
